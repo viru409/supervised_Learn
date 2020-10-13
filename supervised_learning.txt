@@ -1,0 +1,10 @@
+Classification Modelling
+Techniques to evaluate Classification Model
+            1- Accuracy score
+            2- Confusion Matrix  - Accuracy (default)
+                                 - Precision
+                                 - Recall (TPR)
+                                 - FPR
+                                 - Specificity (TNR)
+                                 - F1- score
+            3- ROC curve & AUV (Area Under Curve) - TPR vs FPR
